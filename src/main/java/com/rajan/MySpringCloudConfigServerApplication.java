@@ -1,4 +1,4 @@
-package com.rajan.spring.myspringcloudconfigserver;
+package com.rajan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

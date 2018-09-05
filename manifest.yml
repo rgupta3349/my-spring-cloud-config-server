@@ -1,0 +1,4 @@
+applications:
+- name: configServer  
+  path: target/my-spring-cloud-config-server-0.0.1-SNAPSHOT.jar
+  host: config-Server

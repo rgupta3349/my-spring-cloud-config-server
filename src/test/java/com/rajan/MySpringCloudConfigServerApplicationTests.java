@@ -1,4 +1,4 @@
-package com.rajan.spring.myspringcloudconfigserver;
+package com.rajan;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
