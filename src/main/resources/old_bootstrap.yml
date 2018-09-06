@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: APP${your-app-id}
+  profiles:
+    active: ${profile-name(s)}
+
